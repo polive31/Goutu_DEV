@@ -47,7 +47,7 @@ Temporary Items
 .apdisk
 
 # Custom ignore directories
-*/Backup/*
+*\Backup\*
 
 wp-admin/*
 wp-includes/*
